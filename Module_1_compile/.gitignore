@@ -1,0 +1,7 @@
+*idea
+*.class
+**/*.iml
+
+# Project exclude paths
+/MavenProj/target/
+/out/
