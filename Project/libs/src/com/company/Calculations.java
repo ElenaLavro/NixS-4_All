@@ -2,11 +2,11 @@ package com.company;
 
 public interface Calculations {
     static boolean isRightPosition(char letter, int num) {
-        return (letter < 'a' || letter > 'h') || (num < 1 || num > 8);
+        return (letter >= 'a' && letter <= 'h') && (num >= 1 && num <= 8);
     }
 
     static boolean isPossible(char x, int y, char x1, int y1) {
-        return (!isRightPosition(x, y) || !isRightPosition(x1, y1)) &&
+        return (isRightPosition(x, y) || isRightPosition(x1, y1)) &&
                 Math.abs(x - x1) + Math.abs(y - y1) == 3;
     }
 
