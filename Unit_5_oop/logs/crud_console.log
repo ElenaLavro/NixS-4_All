@@ -1,0 +1,478 @@
+2021-04-07 13:48:56 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:49:01 INFO  BookServiceImpl:45 - Deleting the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:01 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:49:01 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:49:02 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:02 INFO  BookServiceImpl:52 - Start creating Authors from the book
+2021-04-07 13:49:02 INFO  BookServiceImpl:54 - Finished creating Authors from the book
+2021-04-07 13:49:02 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:02 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:02 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:02 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:02 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:49:02 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:49:02 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:49:02 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:49:02 INFO  BookServiceImpl:24 - Updating the book
+2021-04-07 13:49:02 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:49:02 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:49:02 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:49:47 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:50:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:50:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:50:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:50:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:50:22 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:50:22 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:50:49 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:50:49 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:21 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:21 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:36 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:36 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:39 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:39 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:43 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:43 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:45 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:45 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:46 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:46 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:47 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:51:58 INFO  BookServiceImpl:45 - Deleting the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:51:58 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:52 - Start creating Authors from the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:54 - Finished creating Authors from the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:51:58 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:51:58 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:51:58 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:51:58 INFO  BookServiceImpl:24 - Updating the book
+2021-04-07 13:51:58 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:51:58 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:51:58 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:53:10 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:54:23 INFO  BookServiceImpl:45 - Deleting the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:54:23 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:52 - Start creating Authors from the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:54 - Finished creating Authors from the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:54:23 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:54:23 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:54:23 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:54:23 INFO  BookServiceImpl:24 - Updating the book
+2021-04-07 13:54:23 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:54:23 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:54:23 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:56:52 INFO  BookServiceImpl:45 - Deleting the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:56:52 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:52 - Start creating Authors from the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:54 - Finished creating Authors from the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 13:56:52 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:56:52 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:56:52 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:56:52 INFO  BookServiceImpl:24 - Updating the book
+2021-04-07 13:56:52 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:56:52 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 13:56:52 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 13:58:51 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 13:58:51 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 13:58:58 INFO  BookServiceImpl:52 - Start creating Authors from the book
+2021-04-07 13:58:58 INFO  BookServiceImpl:54 - Finished creating Authors from the book
+2021-04-07 14:07:39 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:07:39 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:07:44 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:07:44 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:07:44 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:07:51 INFO  BookServiceImpl:24 - Updating the book
+2021-04-07 14:07:51 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:07:59 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:07:59 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:10:00 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:10:00 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:13:32 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:13:32 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:14:46 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:14:46 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:17:05 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:18:50 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:18:50 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:22:41 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:22:41 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:23:17 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:23:17 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:23:44 INFO  BookServiceImpl:45 - Deleting the book
+2021-04-07 14:23:44 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:27:20 INFO  BookServiceImpl:45 - Deleting the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:27:20 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:52 - Start creating Authors from the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:54 - Finished creating Authors from the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:17 - Start creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:19 - Finish creating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:39 - Reading all books
+2021-04-07 14:27:20 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:27:20 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:27:20 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:27:20 INFO  BookServiceImpl:24 - Updating the book
+2021-04-07 14:27:20 INFO  BookServiceImpl:59 - Checking the book availability
+2021-04-07 14:27:20 INFO  BookServiceImpl:32 - Reading the book by ID
+2021-04-07 14:27:20 INFO  BookServiceImpl:59 - Checking the book availability
